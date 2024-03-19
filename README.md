@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @calebomondi
-- 👀 I’m interested in exploring life and ideas
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on any project from me and others to
-- 📫 How to reach me omondimokua2@gmail.com
+- 💞️ I’m looking to collaborate on any project 
+- 📫 How to reach me kalebmokua@gmail.com
 
 <!---
 calebomondi/calebomondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
