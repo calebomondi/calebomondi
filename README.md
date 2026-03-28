@@ -1,10 +1,72 @@
-# 💫 About Me:
-👋 Hi, I’m @calebomondi<br>👀 I’m interested in software development, currently working in web3 <br>🌱I’m open to collaborate on any project whether web2 or web3<br>🤓Am a software development nerd 
+# 👋 Hi, I’m Caleb (calebomondi)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ac) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+🚀 **Smart Contract Developer | DeFi Integrations | Debugging & Optimization**
 
-<!---
-calebomondi/calebomondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I help Web3 projects ship faster by:
+- Integrating DeFi protocols (Aave, Morpho, Uniswap)
+- Debugging failing transactions & smart contract issues
+- Testing and optimizing Solidity contracts using Foundry
+
+---
+
+## 💼 What I Do
+
+### 🔗 DeFi Integrations
+I integrate DeFi functionality into dApps so users can:
+- Lend, borrow, flashloans (Aave, Morpho)
+- Swap tokens and flashloans (Uniswap)
+- Interact seamlessly with smart contracts
+
+👉 I handle the complexity so you can focus on your product.
+
+---
+
+### 🛠 Smart Contract Debugging & Optimization
+- Fix failing transactions & reverts  
+- Write and improve Foundry test suites  
+- Optimize gas usage  
+- Identify and resolve logic issues  
+
+👉 I help prevent costly bugs before deployment.
+
+---
+
+## 🧩 Featured Work
+
+### DeFi Lending Integration (Aave)
+Built a smart contract system that allows users to:
+- Deposit assets and Borrow against them as collateral  
+- Repay loans
+- Liquidate positions through flashloans
+- Token swapping to repay the flashloans (Uniswap)
+
+**Tech:** Solidity, Foundry, Aave, Uniswap, Chainlink  
+
+✔️ Implemented full deposit/borrow/repay/flashloan/swap flow  
+✔️ Debugged transaction traces & fixed failing calls  
+✔️ Handled ETH/WETH logic correctly  
+
+[Link](https://github.com/liidialabs/liiquidate-v1)
+
+---
+
+## ⚙️ Tech Stack
+
+**Blockchain:** Solidity, Foundry, Viem & Wagmi 
+**Frontend:** React, Next.js, Vite, Tailwind  
+**Backend:** Node.js, Express, Supabase  
+**Other:** Postgres, MongoDB, MySQL  
+
+---
+
+## 📫 Let’s Work Together
+
+I’m currently open to:
+- Smart contract work  
+- DeFi integrations  
+- Debugging & optimization tasks  
+
+💬 Reach out if you need help shipping or fixing your project.
+
+- [Twitter](https://x.com/mokuakaleb)
+- Email: kalebmokua@gmail.com
