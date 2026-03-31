@@ -18,6 +18,7 @@
 - 🔐 **[FVP](https://fvp.finance/)** - a financial managemenent tool for digital assets
 - 🖼️ **[Rare24](https://github.com/calebomondi/rare24)** - NFT platform where creators drop one limited-edition photo NFT every 24 hours for fans to mint and collect
 - 🟦 **[Korvbox](https://korvbox.xyz/)** - a platform that abstracts Morpho Blue complexity to facilitate easier USDC specific deposits and withdrawals to Morpho vaults
+- 🏫 **[Attendeez](https://github.com/calebomondi/attendeez-main)** - an automated class attendance taking platform powered by 'grouping' algorithm
 
 ## What I'm Doing
 
