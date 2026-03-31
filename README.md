@@ -1,72 +1,24 @@
-# 👋 Hi, I’m Caleb (calebomondi)
+# Hi, I'm Caleb 👋
 
-🚀 **Smart Contract Developer | DeFi Integrations | Debugging & Optimization**
+📍 **Nairobi** | ⛓️ **Smart Contract Developer** | 🤖 **Exploring the World of Agents** 
 
-I help Web3 projects ship faster by:
-- Integrating DeFi protocols (Aave, Morpho, Uniswap)
-- Debugging failing transactions & smart contract issues
-- Testing and optimizing Solidity contracts using Foundry
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-0062D3?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat-square&logo=solidity&logoColor=white)
 
----
+> Deep in Web3 and AI — finding the intersection between decentralization and autonomy.
 
-## 💼 What I Do
+## Current Projects
 
-### 🔗 DeFi Integrations
-I integrate DeFi functionality into dApps so users can:
-- Lend, borrow, flashloans (Aave, Morpho)
-- Swap tokens and flashloans (Uniswap)
-- Interact seamlessly with smart contracts
+- 🪙 **[Liidia](https://github.com/liidialabs/liiquidate-v1)** - a pooled protocol built on top of Aave V3, comes with its own liwuidation engine built on Chainlink CRE.
 
-👉 I handle the complexity so you can focus on your product.
+### Previous Projects
+- 🔐 **[FVP](https://fvp.finance/)** - a financial managemenent tool for digital assets
+- 🖼️ **[Rare24](https://github.com/calebomondi/rare24)** - NFT platform where creators drop one limited-edition photo NFT every 24 hours for fans to mint and collect
+- 🟦 **[Korvbox](https://korvbox.xyz/)** - a platform that abstracts Morpho Blue complexity to facilitate easier USDC specific deposits and withdrawals to Morpho vaults
 
----
+## What I'm Doing
 
-### 🛠 Smart Contract Debugging & Optimization
-- Fix failing transactions & reverts  
-- Write and improve Foundry test suites  
-- Optimize gas usage  
-- Identify and resolve logic issues  
-
-👉 I help prevent costly bugs before deployment.
-
----
-
-## 🧩 Featured Work
-
-### DeFi Lending Integration (Aave)
-Built a smart contract system that allows users to:
-- Deposit assets and Borrow against them as collateral  
-- Repay loans
-- Liquidate positions through flashloans
-- Token swapping to repay the flashloans (Uniswap)
-
-**Tech:** Solidity, Foundry, Aave, Uniswap, Chainlink  
-
-✔️ Implemented full deposit/borrow/repay/flashloan/swap flow  
-✔️ Debugged transaction traces & fixed failing calls  
-✔️ Handled ETH/WETH logic correctly  
-
-[Link](https://github.com/liidialabs/liiquidate-v1)
-
----
-
-## ⚙️ Tech Stack
-
-**Blockchain:** Solidity, Foundry, Viem & Wagmi 
-**Frontend:** React, Next.js, Vite, Tailwind  
-**Backend:** Node.js, Express, Supabase  
-**Other:** Postgres, MongoDB, MySQL  
-
----
-
-## 📫 Let’s Work Together
-
-I’m currently open to:
-- Smart contract work  
-- DeFi integrations  
-- Debugging & optimization tasks  
-
-💬 Reach out if you need help shipping or fixing your project.
-
-- [Twitter](https://x.com/mokuakaleb)
-- Email: kalebmokua@gmail.com
+- **Exploring Autonomy and Decentralization** - Learning and building tools to make the onchain economy and agentic engineering accessible for everyone
