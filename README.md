@@ -13,10 +13,11 @@
 ## Current Projects
 
 - 🪙 **[Liidia](https://github.com/liidialabs/liiquidate-v1)** - a pooled protocol built on top of Aave V3, comes with its own liwuidation engine built on Chainlink CRE.
+- 🛠️ **[CodeV]()** - an agentic dev tool that allows developers to fully run their projects in actual simulated environments, starting with web3 devs.
 
 ### Previous Projects
 - 🔐 **[FVP](https://fvp.finance/)** - a financial managemenent tool for digital assets
-- 🖼️ **[Rare24](https://github.com/calebomondi/rare24)** - NFT platform where creators drop one limited-edition photo NFT every 24 hours for fans to mint and collect
+- 🖼️ **[Rare24](https://rare24-fe.vercel.app/)** - NFT platform where creators drop one limited-edition photo NFT every 24 hours for fans to mint and collect
 - 🟦 **[Korvbox](https://korvbox.xyz/)** - a platform that abstracts Morpho Blue complexity to facilitate easier USDC specific deposits and withdrawals to Morpho vaults
 - 🏫 **[Attendeez](https://github.com/calebomondi/attendeez-main)** - an automated class attendance taking platform powered by 'grouping' algorithm
 
