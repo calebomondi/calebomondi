@@ -21,6 +21,11 @@
 - 🟦 **[Korvbox](https://korvbox.xyz/)** - a platform that abstracts Morpho Blue complexity to facilitate easier USDC specific deposits and withdrawals to Morpho vaults
 - 🏫 **[Attendeez](https://github.com/calebomondi/attendeez-main)** - an automated class attendance taking platform powered by 'grouping' algorithm
 
+## Achievements & Highlights
+- Winner at Base Batches 001 DeFi African Track 2025
+- Winner at The Graph Africa Campus JKUAT Chapter 2024
+- Runners up at Web3Clubs Cohort 7 Solidity Dev Challenge 2025
+
 ## What I'm Doing
 
 - **Exploring Autonomy and Decentralization** - Learning and building tools to make the onchain economy and agentic engineering accessible for everyone
