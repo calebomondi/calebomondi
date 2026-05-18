@@ -12,7 +12,7 @@
 
 ## Current Projects
 
-- 🪙 **[Liidia](https://github.com/liidialabs/liiquidate-v1)** - a pooled protocol built on top of Aave V3, comes with its own liwuidation engine built on Chainlink CRE.
+- 🪙 **[Liidia]()** - a crypto-credit platform that allows users to borrow in local fiat currencies against their crypto.
 - 🛠️ **[CodeV]()** - an agentic dev tool that allows developers to fully run their projects in actual simulated environments, starting with web3 devs.
 
 ### Previous Projects
