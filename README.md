@@ -25,6 +25,7 @@
 - Winner at Base Batches 001 DeFi African Track 2025
 - Winner at The Graph Africa Campus JKUAT Chapter 2024
 - Runners up at Web3Clubs Cohort 7 Solidity Dev Challenge 2025
+- 9th place globally at the Dev3Pack Global Hackathon 2026
 
 ## What I'm Doing
 
